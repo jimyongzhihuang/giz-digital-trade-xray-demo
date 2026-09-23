@@ -1,0 +1,12 @@
+{
+  "measurement_id": "TRADE-GITI-ECOO-DEMO-001",
+  "source_event_id": "ECOO-DEMO-001",
+  "representation": "geometric",
+  "index_name": "geometric Institutional Tension Index",
+  "index_acronym": "gITI",
+  "result": {
+    "giti": 0.0,
+    "status": "computed"
+  },
+  "data_status": "GIZ-constrained reconstructed demonstration data"
+}
