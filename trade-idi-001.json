@@ -1,0 +1,13 @@
+{
+  "measurement_id": "TRADE-IDI-ECOO-DEMO-001",
+  "source_event_id": "ECOO-DEMO-001",
+  "index_name": "Institutional Distortion Index",
+  "index_acronym": "IDI",
+  "iti": 0.0,
+  "giti": 0.0,
+  "idi": 0.0,
+  "signed_difference": 0.0,
+  "direction": "aligned",
+  "status": "computed",
+  "data_status": "GIZ-constrained reconstructed demonstration data"
+}
