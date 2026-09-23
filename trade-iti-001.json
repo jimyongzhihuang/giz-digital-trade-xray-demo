@@ -1,0 +1,12 @@
+{
+  "measurement_id": "TRADE-ITI-ECOO-DEMO-001",
+  "source_event_id": "ECOO-DEMO-001",
+  "representation": "arithmetic",
+  "index_name": "Institutional Tension Index",
+  "index_acronym": "ITI",
+  "result": {
+    "iti": 0.0,
+    "status": "computed"
+  },
+  "data_status": "GIZ-constrained reconstructed demonstration data"
+}
